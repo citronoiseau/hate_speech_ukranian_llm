@@ -1,0 +1,7 @@
+stage,text,gold,pred
+zero-shot,Ти повний дурень!,Hate-Speech,Hate-Speech
+zero-shot,Гарне відео!,Neutral,Neutral
+zero-shot,"Ого, яка глибока думка 🤡",Sarcasm,Neutral
+zero-shot,Ти повний дурень!,Hate-Speech,Hate-Speech
+zero-shot,Гарне відео!,Neutral,Sarcasm
+zero-shot,"Ого, яка глибока думка 🤡",Sarcasm,Sarcasm
